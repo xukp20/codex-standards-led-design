@@ -1,0 +1,4 @@
+interface:
+  display_name: "Standards-led Design"
+  short_description: "Design, review, and evolve project standards"
+  default_prompt: "Use $standards-led-design to develop this design against our agreed standards and identify any proposed standards changes."
